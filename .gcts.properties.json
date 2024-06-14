@@ -1,0 +1,14 @@
+{
+  "name": "zdk_byog_test1",
+  "version": "1.0.0",
+  "description": "ZDK_BYOG_TEST1",
+  "repositoryLayout": {
+    "formatVersion": 6,
+    "format": "json",
+    "metaInformation": ".gctsmetadata/",
+    "tableContent": "true",
+    "readableSource": "false",
+    "keepClient": "false",
+    "fingerprintSeckey": "/BYOG/FPRINT_RT/2EAE3EB1E8CC1EEF8ACA5D2792B07D1B_0"
+  }
+}
